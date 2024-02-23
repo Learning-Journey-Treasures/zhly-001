@@ -1,37 +1,18 @@
-# 基于SpringBoot的旅游信息管理系统
+[点我获取源码](https://x-x.fun/e/ZWf87f45b1NRq)💕🤞
 
-#### 介绍
-门户网站：首页、酒店/景点在线预订、景区游玩路线、景区游玩攻略； 后台功能：用户管理、酒店管理、景区管理、攻略管理、路线管理等
+[点我查看更多](http://blog.cyrobot.top/blog)💕🤞
 
-#### 软件架构
-软件架构说明
+#### 1.项目介绍
 
+- 门户网站：首页、酒店/景点在线预订、景区游玩路线、景区游玩攻略
+- 后台功能：用户管理、酒店管理、景区管理、攻略管理、路线管理等
 
-#### 安装教程
+#### 2.本地部署
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+- 创建数据库，导入travel.sql
+- 打开IDEA,导入项目，修改数据库连接：src/main/resources/application.yml
+- 运行项目
+- 前端访问：http://localhost:8080/travel/    user/123456
+- 后端访问：http://localhost:8080/travel/system    admin/admin
+#### 3.项目部分截图
+![输入图片说明](0.jpg)![输入图片说明](4.jpg)![输入图片说明](1.jpg)![输入图片说明](2.jpg)![输入图片说明](3.jpg)
