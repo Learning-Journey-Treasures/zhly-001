@@ -1,8 +1,8 @@
  **郑重声明：项目经过本地测试，确保可以运行， 可以用于学习和毕业设计参考~** 
 
-[点我获取源码](https://x-x.fun/e/ZWf87f45b1NRq)💕🤞
+[点我仅获取源码](https://x-x.fun/e/ZWf87f45b1NRq)💕🤞
 
-[点我查看更多](http://blog.cyrobot.top/blog)💕🤞
+[点我获取源码+毕业设计参考](https://x-x.fun/e/KI6d81ea7cBpt)💕🤞
 
 #### 1.项目介绍
 
